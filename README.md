@@ -1,4 +1,4 @@
-# Weather Forecast App ☀️🌧️❄️
+# Weather Forecast App 
 
 This is a simple and responsive **Weather Forecast App** built using **HTML**, **Tailwind CSS**, and **JavaScript**. It fetches weather data from the OpenWeatherMap API and displays current weather conditions and a 5-day forecast for any searched city.
 
@@ -7,12 +7,12 @@ This is a simple and responsive **Weather Forecast App** built using **HTML**, *
 
 
 - Deploy link- https://ravi8054.github.io/Weather-Forecast-App/
-## 📂 Folder Structure
+##  Folder Structure
 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Get the current weather and 5-day forecast for any city.
 - Option to fetch weather by **current location** using Geolocation API.
@@ -21,16 +21,8 @@ This is a simple and responsive **Weather Forecast App** built using **HTML**, *
 - Loading spinners and animated elements (GSAP).
 - Toast notifications for errors and actions.
 
----
-
-## 📦 Prerequisites
-
-- [Node.js](https://nodejs.org/) (optional if you want to use Tailwind CLI or npm)
-- OpenWeatherMap **API key** (sign up for free [here](https://openweathermap.org/api))
-
----
-
-## 🔧 Setup Instructions
+--
+##  Setup Instructions
 
 1. **Clone the repository**
    ```bash
