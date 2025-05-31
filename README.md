@@ -44,6 +44,6 @@ This is a simple and responsive **Weather Forecast App** built using **HTML**, *
     npx tailwindcss -i ./src/input.css -o ./src/output.css --watch   
 
 ## Usage
-- Open src/index.html in your browser.
+- Open docs/index.html in your browser.
 - Enter a city name and click Search.
 - Click Use Current Location to fetch weather data for your current position    
